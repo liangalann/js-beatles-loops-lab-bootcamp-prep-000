@@ -10,7 +10,7 @@ function theBeatlesPlay(musicians, instruments) {
 theBeatlesPlay(musicians, instruments)
 
 function johnLennonFacts(facts) {
-  var = 0
+  var i = 0
   while(i < 4) {
     facts.push(!!!);
   }
